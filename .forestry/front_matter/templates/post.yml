@@ -42,3 +42,4 @@ fields:
   label: Authors
 pages:
 - content/post/baarmc.md
+- content/post/iframe.md
