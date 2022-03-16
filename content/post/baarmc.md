@@ -9,7 +9,6 @@ hero: ''
 ---
 hhhhhhhhhhhhhhhhhhhhhhh
 
-<!-- iframe.snippet --> <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="[https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2](https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2 "https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2")  
-" allowfullscreen></iframe> </div>
+<!-- iframe.snippet --> <div class="embed-responsive embed-responsive-16by9"> <iframe class="embed-responsive-item" src="[https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2](https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2 "https://storymaps.arcgis.com/stories/22cc20ca8ab5418f84209b9e67fd96e2")" allowfullscreen></iframe> </div>
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
