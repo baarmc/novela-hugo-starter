@@ -1,5 +1,5 @@
 ---
-timeToRead: -1
+timeToRead: 10
 authors: []
 title: BAARMC
 excerpt: ''
